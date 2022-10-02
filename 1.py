@@ -4,7 +4,7 @@
 # 0,56 -> 11
 
 
-a = input("Введите число a: ")
+a = input("Введите число: ")
 summ = 0
 for i in range(len(a)):
     if a[i] != ',':
